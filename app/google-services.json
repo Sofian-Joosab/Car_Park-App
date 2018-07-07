@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "917115009439",
+    "firebase_url": "https://login-municipio.firebaseio.com",
+    "project_id": "login-municipio",
+    "storage_bucket": "login-municipio.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:917115009439:android:30e6586305ca6bad",
+        "android_client_info": {
+          "package_name": "com.example.rock_boy69.parking_municipio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "917115009439-a44b5g0kh6nsi2qnd6l9rok3qflruk8e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rock_boy69.parking_municipio",
+            "certificate_hash": "5a92f356ef70ab90ef2ab1adc16edbc38d7d91df"
+          }
+        },
+        {
+          "client_id": "917115009439-egf60f183drv6f819daunqf856eeofn2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsyLvIV6I1d6YFhhc5ZeJoEEDOX4ymcF8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "917115009439-egf60f183drv6f819daunqf856eeofn2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:917115009439:android:c7bff7164b27d5ec",
+        "android_client_info": {
+          "package_name": "com.example.rock_boy69.car_parking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "917115009439-uj0sp0o8akpiio5oq7pc89bjv47q22em.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rock_boy69.car_parking",
+            "certificate_hash": "5a92f356ef70ab90ef2ab1adc16edbc38d7d91df"
+          }
+        },
+        {
+          "client_id": "917115009439-egf60f183drv6f819daunqf856eeofn2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsyLvIV6I1d6YFhhc5ZeJoEEDOX4ymcF8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "917115009439-egf60f183drv6f819daunqf856eeofn2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

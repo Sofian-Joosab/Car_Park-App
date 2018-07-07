@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">E-Parking</string>
+    <string name="this_is_the_main_page_reg_cars">This is the Main Page(Reg cars)</string>
+    <string name="creat_a_account">Creat a Account</string>
+    <string name="welcome_to_the_app_reg_user_or_login_here">Welcome to the app(Reg user or login here)</string>
+    <string name="display_name">Display Name</string>
+    <string name="e_mail">E-mail</string>
+    <string name="password">Password</string>
+    <string name="create_account">Create Account</string>
+    <string name="log_out">Log Out</string>
+    <string name="login">Login</string>
+    <string name="logintext">loginText</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="Time">
+        <item>----</item>
+        <item>1h</item>
+        <item>2h/Todo Dia</item>
+    </string-array>
+
+    <string-array name="Location">
+        <item>----</item>
+        <item>Praca do Municipio</item>
+        <item>Praca do Metical</item>
+    </string-array>
+
+    <string-array name="SpotNumber">
+        <item>----</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+
+    </string-array>
+
+    <string name="status">Status</string>
+    <string name="chat_page">Chat Page</string>
+</resources>

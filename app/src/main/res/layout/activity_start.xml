@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/backgroundScripting"
+    android:backgroundTint="@color/backgroundScripting"
+    tools:context="com.example.rock_boy69.car_parking.StartActivity">
+
+
+    <Button
+        android:id="@+id/start_login_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="92dp"
+        android:backgroundTint="@color/scriptingBtn"
+        android:paddingLeft="90dp"
+        android:paddingRight="90dp"
+        android:text="Login"
+        android:textColor="@android:color/background_light" />
+
+    <ImageView
+        android:id="@+id/imageViewId"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginBottom="203dp"
+        android:src="@drawable/logoinicial" />
+</RelativeLayout>
